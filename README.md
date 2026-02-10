@@ -1,4 +1,9 @@
 <h1 align="center">Olá! Sejam bem vindos ao meu GitHub!</h1>
+<h2>Kauã Silva</h2>
+<p>Técnico em desenvolvimento de sistemas</p>
+<p>Front-end</p>
+<p>gosto de jogar bastante jogos</p>
+<p>Linguagens que vamos trabalhar esse ano: Python, JavaScript, HTML5 e CSS.</p>
 
 ###
 
